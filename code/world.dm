@@ -377,7 +377,6 @@ var/world_topic_spam_protect_time = world.timeofday
 	var/s = ""
 
 	s += "<meta charset=\"utf-8\">"
-	s += "LAMBDA 13] "
 	if (config.open_hub_discord_in_new_window)
 		s += "<a href=\"[config.discordurl]\" target=\"_blank\"><b>[customserver_name()]</b></a><br>"
 	else
