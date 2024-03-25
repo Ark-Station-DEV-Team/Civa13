@@ -1295,7 +1295,6 @@
 #include "maps\ru\arab_town_ru.dmm"
 #include "maps\ru\box.dmm"
 #include "maps\ru\nomads_stranded_ru.dmm"
-#include "maps\ru\nomads_wasteland_scarlet_plague.dmm"
 #include "maps\ru\pervomaisk_crossing.dmm"
 #include "maps\special\battleroyale_imperial.dmm"
 #include "maps\special\battleroyale_medieval.dmm"
