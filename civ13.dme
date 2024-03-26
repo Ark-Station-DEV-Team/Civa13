@@ -1166,5 +1166,5 @@
 #include "lambda\sanecman\code\soldier_stogie\soldier_stogie.dm"
 #include "lambda\sanecman\code\space\grenade.dm"
 #include "lambda\sanecman\code\space\gun.dm"
-#include "maps\nomads\nomads_europe.dmm"
+#include "maps\nomads\nomads.dmm"
 // END_INCLUDE
